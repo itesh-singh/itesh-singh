@@ -99,11 +99,11 @@ class Itesh:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itesh-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itesh-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=itesh-singh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=itesh-singh&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itesh-singh&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itesh-singh&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
 
 </div>
 
