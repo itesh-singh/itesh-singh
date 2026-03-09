@@ -14,7 +14,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```python
 class Itesh:
     name       = "Itesh Singh"
