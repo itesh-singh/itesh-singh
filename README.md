@@ -13,6 +13,7 @@ Currently pursuing **BCA at COER University, Roorkee**, while building productio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itesh-singh-113b55323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itesh5906@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itesh-singh)
+[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf)
 [![Profile Views](https://komarev.com/ghpvc/?username=itesh-singh&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/itesh-singh)
 
 </div>
@@ -65,6 +66,7 @@ class Itesh:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -144,6 +146,14 @@ Python · Django · PayPal SDK · Bootstrap
 </table>
 
 </div>
+
+---
+
+## 📄 Resume
+
+> Looking for a Backend Developer role. My resume covers my projects, skills, and experience in detail.
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf)
 
 ---
 
