@@ -1,20 +1,34 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Itesh+Singh+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+Real+Backend+Systems)](https://github.com/itesh-singh)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=220&section=header&text=Itesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%7C%20PostgreSQL%20%7C%20REST%20APIs&descAlignY=56&descSize=18" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+real+backend+systems%2C+not+tutorial+projects;Django+%7C+PostgreSQL+%7C+DRF+%7C+JWT+%7C+WebSockets+%7C+Docker;Clean+architecture+%7C+Production-style+development;BCA+Final+Year+%40+COER+University%2C+Roorkee" alt="Typing SVG" />
 
-Backend Developer focused on building real backend systems using **Python, Django, and PostgreSQL**.
+<br/>
 
-Currently pursuing **BCA at COER University, Roorkee**, while building production-style backend projects.
+<p align="center">
+  <a href="https://linkedin.com/in/itesh-singh-113b55323">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:itesh5906@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=itesh-singh&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+</p>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itesh-singh-113b55323)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itesh5906@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itesh-singh)
-[![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf)
-[![Profile Views](https://komarev.com/ghpvc/?username=itesh-singh&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/itesh-singh)
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open%20to-Backend%20Roles%20%26%20Internships-58A6FF?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Python%20%26%20Django%20Backend-1F6FEB?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
 </div>
 
@@ -22,51 +36,42 @@ Currently pursuing **BCA at COER University, Roorkee**, while building productio
 
 ## 👨‍💻 About Me
 
-I am a backend-focused developer who enjoys building real systems rather than tutorial projects.
+I'm a **BCA final year student** at COER University, Roorkee — focused entirely on backend development with Python and Django. I don't build tutorial projects. I build **real systems with real users, real data, and real problems.**
 
-My primary focus is designing **clean backend architectures, authentication systems, REST APIs, and database-driven applications** using Django.
+My projects handle authentication flows, real-time WebSocket connections, job platforms, and ecommerce backends — the kind of work that teaches you how backend systems actually behave under pressure.
 
-Currently improving my expertise in **PostgreSQL, API architecture, real-time systems with WebSockets, and backend deployment workflows**.
-```python
-class Itesh:
-    name       = "Itesh Singh"
-    role       = "Backend Developer"
-    education  = "BCA @ COER University, Roorkee"
-    location   = "Roorkee, Uttarakhand, India"
-    focus      = ["Django", "REST APIs", "JWT Auth", "PostgreSQL", "WebSockets"]
-    learning   = ["Django Channels", "Redis", "Production Deployment"]
-    goal       = "Backend Developer role after graduation"
-    philosophy = "Build real systems, not tutorial projects"
-```
+**What I bring:**
+- 🔧 Clean backend architecture with **Django + DRF + PostgreSQL**
+- 🔐 Secure systems — **JWT auth, RBAC, token verification**
+- 💬 Real-time features — **WebSockets + Django Channels + Redis**
+- 🐳 Containerized deployments — **Docker + Render + Railway**
+- 🐧 Linux-first workflow — daily driving **Ubuntu**
+
+**Currently working on:**
+- 📚 Advanced **SQL & PostgreSQL** internals
+- 🏗️ **System Design** fundamentals
+- 🧠 **DSA** for technical interviews
+
+> *"The best backend is the one users never have to think about."*
 
 ---
 
-## 🛠️ Tech Stack
+## ⚒️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div align="center">
 
-### Database & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,linux,vscode,tailwind,bootstrap&theme=dark&perline=10" />
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/><br/>
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+| Category | Technologies |
+|:---:|:---|
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white) ![Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Database & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Tools & Deploy** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
 
 ---
 
@@ -76,48 +81,68 @@ class Itesh:
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 CampusRefer — Alumni Referral Platform
+### 🎓 CampusRefer
+**Alumni Referral & Mentorship Platform**
 
-Full-stack alumni mentorship and referral platform connecting college students with alumni for career guidance and job referrals.
+> Backend-first platform connecting COER University students with alumni for mentorship, referrals, and real opportunities — built with **real institutional data that no AI tool can fake.**
 
-**Key Features**
+#### Highlights
+- 🔐 JWT auth — **dual roles** (Student / Alumni / Admin)
+- 💬 **Real-time chat** via Django Channels + WebSockets
+- 🔍 Alumni discovery with smart search & filters
+- 💼 Job posting, application tracking, connection requests
+- 📊 Custom admin dashboard with analytics
+- 📖 **Swagger / OpenAPI** documentation
+- 🐳 **Dockerized** + deployed on Render
 
-- Real-time messaging with WebSockets
-- Role-based access — student, alumni, admin
-- Alumni discovery with filters
-- Job posting and application system
-- Custom admin panel with analytics charts
-- REST API with JWT auth and Swagger docs
-- Production deployed on Render
+#### Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat-square&logo=django&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Tech**
-
-Django · PostgreSQL · Redis · Django Channels · Tailwind CSS · DRF
-
-🔗 [Repository](https://github.com/itesh-singh/campusrefer) &nbsp;·&nbsp; 🌐 [Live Demo](https://campusrefer.onrender.com)
+<p>
+  <a href="https://github.com/itesh-singh/campusrefer">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://campusrefer.onrender.com">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
+</p>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🛒 GreatKart — Django Ecommerce
+### 🛒 GreatKart
+**Full-Stack Django Ecommerce**
 
-Production-style ecommerce backend covering the full purchase lifecycle.
+> Production-style ecommerce backend covering the **complete purchase lifecycle** — authentication, catalog, cart, checkout, payments, and order management.
 
-**Key Features**
+#### Highlights
+- 💳 **PayPal** sandbox payment integration
+- ✉️ Email verification with signed tokens
+- 🛒 Session-based cart system
+- 📦 Full order lifecycle management
+- ⭐ Verified purchaser reviews only
+- 🛡️ Admin honeypot security
+- 📬 Email notifications & password reset flows
 
-- PayPal sandbox payment integration
-- Email verification with signed tokens
-- Session-based cart system
-- Order lifecycle management
-- Verified purchaser reviews
-- Admin honeypot security protection
+#### Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
 
-**Tech**
-
-Python · Django · PayPal SDK · Bootstrap
-
-🔗 [Repository](https://github.com/itesh-singh/ecommerce-django-backend)
+<p>
+  <a href="https://github.com/itesh-singh/Ecommerce-Website---Django">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deploying_Soon-FF8C00?style=for-the-badge"/>
+</p>
 
 </td>
 </tr>
@@ -125,48 +150,75 @@ Python · Django · PayPal SDK · Bootstrap
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itesh-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=itesh-singh&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itesh-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itesh-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=itesh-singh&theme=tokyonight&hide_border=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itesh-singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itesh-singh&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | What I'm Doing |
+|:---|:---|
+| 🗄️ **PostgreSQL & SQL** | Deep diving into advanced queries, indexing, and optimization |
+| 🏗️ **System Design** | Learning scalable architecture patterns for backend systems |
+| 🧠 **DSA** | Grinding LeetCode for technical interviews |
+| 🚀 **Deployment** | Migrating GreatKart to PostgreSQL and deploying |
 
 ---
 
 ## 📄 Resume
 
-> Looking for a Backend Developer role. My resume covers my projects, skills, and experience in detail.
+<div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf)
+**Open to Backend Developer internships and entry-level opportunities.**
+<br/>
+*Available for immediate joining.*
+
+<br/>
+
+<a href="https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf">
+  <img src="https://img.shields.io/badge/⬇️_Download_Resume-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Itesh_Singh-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/itesh-singh-113b55323)
-[![GitHub](https://img.shields.io/badge/GitHub-itesh--singh-181717?style=flat&logo=github)](https://github.com/itesh-singh)
-[![Gmail](https://img.shields.io/badge/Email-itesh5906@gmail.com-D14836?style=flat&logo=gmail)](mailto:itesh5906@gmail.com)
-
----
+## 🤝 Connect With Me
 
 <div align="center">
 
-### "Build real systems. Solve real problems."
+<a href="https://linkedin.com/in/itesh-singh-113b55323">
+  <img src="https://img.shields.io/badge/LinkedIn-Itesh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/itesh-singh">
+  <img src="https://img.shields.io/badge/GitHub-itesh--singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:itesh5906@gmail.com">
+  <img src="https://img.shields.io/badge/Email-itesh5906%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⚡ Building practical backend systems with clean logic and real-world value.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
