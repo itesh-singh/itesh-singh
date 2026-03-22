@@ -166,6 +166,14 @@ My projects handle authentication flows, real-time WebSocket connections, job pl
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itesh-singh&theme=tokyo-night&hide_border=true&area=true" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itesh-singh/itesh-singh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itesh-singh/itesh-singh/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/itesh-singh/itesh-singh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
