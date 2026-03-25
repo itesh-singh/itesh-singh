@@ -117,31 +117,34 @@ My projects handle authentication flows, real-time WebSocket connections, job pl
 <td width="50%" valign="top">
 
 ### 🛒 GreatKart
-**Full-Stack Django Ecommerce**
+**Production-Oriented Django Ecommerce Platform**
 
-> Production-style ecommerce backend covering the **complete purchase lifecycle** — authentication, catalog, cart, checkout, payments, and order management.
+> Ecommerce backend covering the **complete purchase lifecycle** — authentication, catalog, cart, checkout, payments, account management, reviews, and order history.
 
 #### Highlights
 - 💳 **PayPal** sandbox payment integration
-- ✉️ Email verification with signed tokens
-- 🛒 Session-based cart system
+- ✉️ Email verification and password reset flows
+- 🛒 Session-based cart and checkout system
 - 📦 Full order lifecycle management
 - ⭐ Verified purchaser reviews only
 - 🛡️ Admin honeypot security
-- 📬 Email notifications & password reset flows
+- 🚀 Live on Render with PostgreSQL
 
 #### Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 <p>
-  <a href="https://github.com/itesh-singh/Ecommerce-Website---Django">
+  <a href="https://github.com/itesh-singh/ecommerce-django-backend">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Deploying_Soon-FF8C00?style=for-the-badge"/>
+  <a href="https://ecommerce-django-backend-xnws.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
 </p>
 
 </td>
@@ -185,7 +188,7 @@ My projects handle authentication flows, real-time WebSocket connections, job pl
 | 🗄️ **PostgreSQL & SQL** | Deep diving into advanced queries, indexing, and optimization |
 | 🏗️ **System Design** | Learning scalable architecture patterns for backend systems |
 | 🧠 **DSA** | Grinding LeetCode for technical interviews |
-| 🚀 **Deployment** | Migrating GreatKart to PostgreSQL and deploying |
+| 🚀 **Backend Projects** | Strengthening production-style Django projects with deployment, payments, real-time features, and clean architecture |
 
 ---
 
