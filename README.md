@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=220&section=header&text=Itesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%7C%20PostgreSQL%20%7C%20REST%20APIs&descAlignY=56&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+real+backend+systems%2C+not+tutorial+projects;Django+%7C+PostgreSQL+%7C+DRF+%7C+JWT+%7C+WebSockets+%7C+Docker;Clean+architecture+%7C+Production-style+development;BCA+Final+Year+%40+COER+University%2C+Roorkee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+practical+backend+systems+with+real-world+value;Django+%7C+PostgreSQL+%7C+DRF+%7C+JWT+%7C+WebSockets+%7C+Docker;Clean+architecture+%7C+Production-style+development;BCA+Final+Year+%40+COER+University%2C+Roorkee" alt="Typing SVG" />
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA final year student** at COER University, Roorkee — focused entirely on backend development with Python and Django. I don't build tutorial projects. I build **real systems with real users, real data, and real problems.**
+I'm a **BCA final year student** at COER University, Roorkee, focused on backend development with Python and Django. I build practical backend systems that solve real problems and reflect production-style development.
 
-My projects handle authentication flows, real-time WebSocket connections, job platforms, and ecommerce backends — the kind of work that teaches you how backend systems actually behave under pressure.
+My projects cover authentication flows, real-time WebSocket communication, alumni networking platforms, ecommerce backends, payments, email verification, and deployment workflows — the kind of work that builds real backend understanding.
 
 **What I bring:**
 - 🔧 Clean backend architecture with **Django + DRF + PostgreSQL**
@@ -84,13 +84,14 @@ My projects handle authentication flows, real-time WebSocket connections, job pl
 ### 🎓 CampusRefer
 **Alumni Referral & Mentorship Platform**
 
-> Backend-first platform connecting COER University students with alumni for mentorship, referrals, and real opportunities — built with **real institutional data that no AI tool can fake.**
+> Backend-first platform connecting COER University students with alumni for mentorship, referrals, and job opportunities through a structured, college-focused network.
 
 #### Highlights
 - 🔐 JWT auth — **dual roles** (Student / Alumni / Admin)
 - 💬 **Real-time chat** via Django Channels + WebSockets
 - 🔍 Alumni discovery with smart search & filters
-- 💼 Job posting, application tracking, connection requests
+- 💼 Job posting, application tracking, and connection requests
+- 📧 **Gmail API + OAuth 2.0** powered email verification and password reset
 - 📊 Custom admin dashboard with analytics
 - 📖 **Swagger / OpenAPI** documentation
 - 🐳 **Dockerized** + deployed on Render
@@ -123,7 +124,7 @@ My projects handle authentication flows, real-time WebSocket connections, job pl
 
 #### Highlights
 - 💳 **PayPal** sandbox payment integration
-- ✉️ Email verification and password reset flows
+- ✉️ **Gmail API + OAuth 2.0** powered email verification and password reset
 - 🛒 Session-based cart and checkout system
 - 📦 Full order lifecycle management
 - ⭐ Verified purchaser reviews only
