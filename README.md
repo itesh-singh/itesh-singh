@@ -31,12 +31,6 @@
 </p>
 
 </div>
-<p align="center">
-  📫 <b>Reach me at:</b> <a href="mailto:itesh5906@gmail.com">itesh5906@gmail.com</a> &nbsp; | &nbsp;
-  📄 <b>Resume:</b> <a href="https://github.com/itesh-singh/itesh-singh/raw/main/Itesh_Singh_Resume.pdf">View Resume</a> &nbsp; | &nbsp;
-</p>
-
----
 
 ## 👨‍💻 About Me
 
